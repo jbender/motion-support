@@ -1,5 +1,5 @@
 # MotionSupport
-[![Build Status](https://travis-ci.org/rubymotion/motion-support.svg?branch=master)](https://travis-ci.org/rubymotion/motion-support)
+[![Build Status](https://travis-ci.org/jbender/motion-support.svg?branch=master)](https://travis-ci.org/jbender/motion-support)
 [![Gem Version](https://img.shields.io/gem/v/motion-support.svg)](https://rubygems.org/gems/motion-support)
 [![MIT Licensed](https://img.shields.io/github/license/rubymotion/motion-support.svg)](https://github.com/rubymotion/motion-support/blob/master/LICENSE)
 
