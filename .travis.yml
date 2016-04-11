@@ -9,6 +9,7 @@ xcode_sdk:
   - iphonesimulator9.1
   - iphonesimulator9.2
   - iphonesimulator9.3
+before_install: sudo motion update
 script: bundle exec rake spec
 deploy:
   provider: rubygems
